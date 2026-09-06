@@ -1,0 +1,2 @@
+# No third-party dependencies — sqlite3 is part of the Python standard library.
+# Kept here for clarity / in case reporting features are extended later.
